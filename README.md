@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aish-Re/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Aish-Re/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Aish-Re/LeetCode/tree/master/0068-text-justification) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aish-Re/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aish-Re/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
