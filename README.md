@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aish-Re/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aish-Re/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aish-Re/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aish-Re/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Aish-Re/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Aish-Re/LeetCode/tree/master/0068-text-justification) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aish-Re/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
