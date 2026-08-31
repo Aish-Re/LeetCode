@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aish-Re/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Aish-Re/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Aish-Re/LeetCode/tree/master/0068-text-justification) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aish-Re/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Aish-Re/LeetCode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aish-Re/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aish-Re/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aish-Re/LeetCode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aish-Re/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aish-Re/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
