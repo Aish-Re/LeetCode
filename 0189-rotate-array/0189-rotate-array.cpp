@@ -4,8 +4,8 @@ public:
         int n = nums.size();
         k = k % n;
 
-        reverse(nums.end() - k ,nums.end());
-        reverse(nums.begin(), nums.end() - k);
-        reverse(nums.begin(), nums.end());
+        std::reverse(nums.end() - k ,nums.end());
+        std::reverse(nums.begin(), nums.end() - k);
+        std::reverse(nums.begin(), nums.end());
     }
 };
