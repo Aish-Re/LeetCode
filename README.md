@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aish-Re/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aish-Re/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aish-Re/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Aish-Re/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aish-Re/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aish-Re/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Aish-Re/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Aish-Re/LeetCode/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aish-Re/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aish-Re/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
