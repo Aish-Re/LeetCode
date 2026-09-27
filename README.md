@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aish-Re/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Aish-Re/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Aish-Re/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aish-Re/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aish-Re/LeetCode/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aish-Re/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Aish-Re/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Aish-Re/LeetCode/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Aish-Re/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aish-Re/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aish-Re/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Aish-Re/LeetCode/tree/master/0189-rotate-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aish-Re/LeetCode/tree/master/0075-sort-colors) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aish-Re/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aish-Re/LeetCode/tree/master/0069-sqrtx) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aish-Re/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aish-Re/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
