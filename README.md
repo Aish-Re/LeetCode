@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aish-Re/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Aish-Re/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aish-Re/LeetCode/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/Aish-Re/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Aish-Re/LeetCode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Aish-Re/LeetCode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Aish-Re/LeetCode/tree/master/0621-task-scheduler) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aish-Re/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aish-Re/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -129,6 +131,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aish-Re/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Aish-Re/LeetCode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Aish-Re/LeetCode/tree/master/0621-task-scheduler) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aish-Re/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aish-Re/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aish-Re/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
