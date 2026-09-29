@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aish-Re/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aish-Re/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aish-Re/LeetCode/tree/master/0283-move-zeroes) |
+| [0506-relative-ranks](https://github.com/Aish-Re/LeetCode/tree/master/0506-relative-ranks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aish-Re/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aish-Re/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Aish-Re/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aish-Re/LeetCode/tree/master/0169-majority-element) |
+| [0506-relative-ranks](https://github.com/Aish-Re/LeetCode/tree/master/0506-relative-ranks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aish-Re/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aish-Re/LeetCode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Aish-Re/LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
