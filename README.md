@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aish-Re/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aish-Re/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aish-Re/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Aish-Re/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Aish-Re/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aish-Re/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0621-task-scheduler](https://github.com/Aish-Re/LeetCode/tree/master/0621-task-scheduler) |
@@ -170,4 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aish-Re/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Aish-Re/LeetCode/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Aish-Re/LeetCode/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Aish-Re/LeetCode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
