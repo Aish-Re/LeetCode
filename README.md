@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Aish-Re/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Aish-Re/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Aish-Re/LeetCode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Aish-Re/LeetCode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Aish-Re/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aish-Re/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aish-Re/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Aish-Re/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Aish-Re/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Aish-Re/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Aish-Re/LeetCode/tree/master/0169-majority-element) |
@@ -178,9 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Aish-Re/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Aish-Re/LeetCode/tree/master/0133-clone-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Aish-Re/LeetCode/tree/master/0133-clone-graph) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Aish-Re/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
