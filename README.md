@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Aish-Re/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Aish-Re/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Aish-Re/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Aish-Re/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aish-Re/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aish-Re/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aish-Re/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Aish-Re/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0621-task-scheduler](https://github.com/Aish-Re/LeetCode/tree/master/0621-task-scheduler) |
 ## Newton's Method
 |  |
