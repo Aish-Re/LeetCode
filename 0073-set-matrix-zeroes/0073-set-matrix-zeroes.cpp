@@ -13,11 +13,9 @@ public:
 
                     if (j == 0) {
                         col0 = 0;
-                    }
-                    else {
+                    } else {
                         matrix[0][j] = 0;
                     }
-
                 }
             }
         }
@@ -35,8 +33,8 @@ public:
                 matrix[0][j] = 0;
             }
         }
-        
-        if (col0 == 0) {
+
+        if (col0 == 0){
             for (int i = 0; i < m; i++) {
                 matrix[i][0] = 0;
             }
