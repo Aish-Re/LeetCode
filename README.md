@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Aish-Re/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Aish-Re/LeetCode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Aish-Re/LeetCode/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/Aish-Re/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Aish-Re/LeetCode/tree/master/0621-task-scheduler) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aish-Re/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aish-Re/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Aish-Re/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aish-Re/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Aish-Re/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Aish-Re/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aish-Re/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0560-subarray-sum-equals-k](https://github.com/Aish-Re/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Aish-Re/LeetCode/tree/master/0621-task-scheduler) |
 ## Newton's Method
 |  |
