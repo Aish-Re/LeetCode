@@ -1,20 +1,16 @@
 class Solution {
 public:
-    long long getCell(int r, int c) {
-        long long result = 1;
-
-        for (int i = 0; i < c; i++) {
-            result = result * (r - i);
-            result = result / (i + 1);
-        }
-        return result;
-    }
-
     vector<int> getRow(int rowIndex) {
         int r = rowIndex;
+        long long result = 1;
+
         vector<int> row;
-        for (int c = 0; c <= r; c++) {
-            row.push_back(getCell(r,c));
+        row.push_back(result);
+
+        for (int c = 1; c <= r; c++) {
+            result = result * ( r + 1 - c);
+            result = result / c;
+            row.push_back(result);
         }
         return row;
     }
