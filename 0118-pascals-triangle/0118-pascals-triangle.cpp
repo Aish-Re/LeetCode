@@ -1,24 +1,24 @@
 class Solution {
 public:
-    vector<int> getRow(int r) {
-        int result = 1;
-        vector<int> row;
-        row.push_back(result);
+    long long getCell (int r, int c) {
+        long long result = 1;
 
-        for (int i = 1; i < r; i++) {
-            result = result * ( r - i);
-            result = result / i;
-            row.push_back(result);
+        for (int i = 0; i < c; i++) {
+            result = result * (r - i);
+            result = result / (i + 1);
         }
-        return row;
+        return result;
     }
-
     vector<vector<int>> generate(int numRows) {
-        int r = numRows;
         vector<vector<int>> triangle;
-        
+        int r = numRows;
+
         for (int i = 0; i < r; i++) {
-            triangle.push_back(getRow(i + 1));
+            vector<int> row;
+            for (int j = 0; j <= i; j++) {
+                row.push_back(getCell(i,j));
+            }
+            triangle.push_back(row);
         }
         return triangle;
     }
