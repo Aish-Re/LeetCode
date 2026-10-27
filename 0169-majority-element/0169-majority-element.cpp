@@ -1,19 +1,21 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int,int> mp;
-
         int n = nums.size();
 
-        for (int i = 0; i < n; i++) {
-            mp[nums[i]]++;
-        }
+        int candidate = -1;
+        int count = 0;
 
-        for (auto it : mp) {
-            if (it.second > n/2) {
-                return it.first;
+        for (int i = 0; i < n; i++) {
+            if (count == 0) {
+                candidate = nums[i];
+                count = 1;
+            } else if (nums[i] == candidate) {
+                count++;
+            } else {
+                count--;
             }
         }
-        return -1;
+        return candidate;
     }
 };
